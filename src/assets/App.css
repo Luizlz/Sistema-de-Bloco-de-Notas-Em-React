@@ -1,0 +1,15 @@
+.conteudo {
+  display: flex;
+}
+
+.conteudo-principal{
+  flex-grow: 3;
+}
+:root {
+  --primaria: #000;
+  --secundaria: #a6a6a6;
+  --secundaria-ativa: #a6a6a6;
+  --fundo: #fffafa;
+  --fundo-detalhes: #f5f5f5;
+}
+
